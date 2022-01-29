@@ -1,0 +1,32 @@
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\bin\Debug\net5.0\DOTNET - POO.exe
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\bin\Debug\net5.0\DOTNET - POO.deps.json
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\bin\Debug\net5.0\DOTNET - POO.runtimeconfig.json
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\bin\Debug\net5.0\DOTNET - POO.runtimeconfig.dev.json
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\bin\Debug\net5.0\DOTNET - POO.dll
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\bin\Debug\net5.0\ref\DOTNET - POO.dll
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\bin\Debug\net5.0\DOTNET - POO.pdb
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\obj\Debug\net5.0\DOTNET - POO.csproj.AssemblyReference.cache
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\obj\Debug\net5.0\DOTNET - POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\obj\Debug\net5.0\DOTNET - POO.AssemblyInfoInputs.cache
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\obj\Debug\net5.0\DOTNET - POO.AssemblyInfo.cs
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\obj\Debug\net5.0\DOTNET - POO.csproj.CoreCompileInputs.cache
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\obj\Debug\net5.0\DOTNET - POO.dll
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\obj\Debug\net5.0\ref\DOTNET - POO.dll
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\obj\Debug\net5.0\DOTNET - POO.pdb
+C:\Users\Mks\Desktop\DIO .net\DOTNET - POO\obj\Debug\net5.0\DOTNET - POO.genruntimeconfig.cache
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\bin\Debug\net5.0\DOTNET - POO.exe
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\bin\Debug\net5.0\DOTNET - POO.deps.json
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\bin\Debug\net5.0\DOTNET - POO.runtimeconfig.json
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\bin\Debug\net5.0\DOTNET - POO.runtimeconfig.dev.json
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\bin\Debug\net5.0\DOTNET - POO.dll
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\bin\Debug\net5.0\ref\DOTNET - POO.dll
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\bin\Debug\net5.0\DOTNET - POO.pdb
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\obj\Debug\net5.0\DOTNET - POO.csproj.AssemblyReference.cache
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\obj\Debug\net5.0\DOTNET - POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\obj\Debug\net5.0\DOTNET - POO.AssemblyInfoInputs.cache
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\obj\Debug\net5.0\DOTNET - POO.AssemblyInfo.cs
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\obj\Debug\net5.0\DOTNET - POO.csproj.CoreCompileInputs.cache
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\obj\Debug\net5.0\DOTNET - POO.dll
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\obj\Debug\net5.0\ref\DOTNET - POO.dll
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\obj\Debug\net5.0\DOTNET - POO.pdb
+C:\Users\Mks\Desktop\DIO .net\DIO-RPG-POO\obj\Debug\net5.0\DOTNET - POO.genruntimeconfig.cache
